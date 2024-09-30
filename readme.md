@@ -1,4 +1,4 @@
-<h2>Hi, I am a Web Developer.</h2>
+<h2>Hi, here is AI + Data Visualization Engineer, Python Programmer!</h2>
 
 <h3>Things I code with</h3>
 <p>
